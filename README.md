@@ -6,4 +6,4 @@ This is a back end for an e-commerce site. It uses Express.js API and Sequelize 
 
 ## Demo
 
-<video src="https://www.loom.com/share/8ce8ec2b348149d9adaff58bc281fb96" controls="controls style="max></video>
+![Demo Video](https://www.loom.com/share/8ce8ec2b348149d9adaff58bc281fb96)
